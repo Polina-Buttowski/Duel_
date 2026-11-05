@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\1\\source\\repos\\duel_\\main.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\1\\source\\repos\\duel_\\game.h",
+            "c:\\users\\1\\source\\repos\\duel_\\fighter.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
